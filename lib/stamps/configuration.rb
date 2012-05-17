@@ -13,6 +13,7 @@ module Stamps
       :test_mode,
       :raise_errors,
       :log_messages,
+      :wsdl_document,
       :endpoint].freeze
 
     # The endpoint that will be used to connect if none is set
